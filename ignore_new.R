@@ -1,4 +1,4 @@
-# comments are compulsory
+# comments are not compulsory
 print(4+5)
 
 # comment
